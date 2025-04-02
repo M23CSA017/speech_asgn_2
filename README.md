@@ -1,6 +1,6 @@
 # Speech Assignment 2 - M23CSA017
 
-**Name**: Prabhat Ranjan\
+**Name**: Prabhat Ranjan
 
 
 
